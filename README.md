@@ -6,18 +6,18 @@ FizzBuzz is one of the most simple programming challenges out there. That being 
 
 These solutions are what you might expect to see in a given language. No fancy tricks or fun.
 
-1. [JavaScript](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.js)
-2. [C#](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.cs)
-3. [C++](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.cpp)
-4. [C](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.c)
+1. [Bash](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.sh)
+2. [C](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.c)
+3. [C#](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.cs)
+4. [C++](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.cpp)
 5. [Java](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.java)
-6. [Python](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.py)
-7. [Bash](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.sh)
-8. [PowerShell](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.ps1)
-9. [MIPS Assembly](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.asm)
+6. [JavaScript](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.js)
+7. [MIPS Assembly](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.asm)
+8. [Python](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.py)
+9. [PowerShell](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/StandardFizzBuzz/fizzbuzz.ps1)
 
 ## Miscellaneous solutions
 
-1. [Highly obfuscated](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/misc/obfuscated.js)
-2. [Least code](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/misc/tinybuzz.js)
-3. [Bitwise calculations](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/misc/bitbuzz.js)
+1. [Bitwise calculations](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/misc/bitbuzz.js)
+2. [Highly obfuscated](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/misc/obfuscated.js)
+3. [Least code](https://github.com/jwMaxwell/FizzBuzz4Life/blob/main/misc/tinybuzz.js)
